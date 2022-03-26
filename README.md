@@ -31,5 +31,5 @@ With the help of Streamlit library, a basic Webapp has been build, Asking 54 qui
 ### !! If you want to run this Webapp, please go through the requirment.txt to get all the prerequisite. !!
 
 After creating virtual environment, you need to run this command in your terminal
---> conda activate ml
---> streamlit run app.py
+conda activate ml
+streamlit run app.py
