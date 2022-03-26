@@ -28,3 +28,4 @@ After building the model with 91.17% accuracy, it is dumped into a pickle file t
 
 With the help of Streamlit library, a basic Webapp has been build, Asking 54 quiestion from user, and detect his/her divorce.
 
+### If you want to run this Webapp, please go through the requirment.txt to get all the prerequisite.
