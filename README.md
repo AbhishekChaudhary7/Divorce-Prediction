@@ -26,7 +26,7 @@ After building the model with 91.17% accuracy, it is dumped into a pickle file t
 
 ### <-- Step3 -->---------------->>>Building Webapp<<<
 
-With the help of Streamlit library, a basic Webapp has been build, Asking 54 quiestion from user, and detect his/her divorce.
+With the help of Streamlit library, a basic Webapp has been build, Asking 54 questions from user, and detect his/her divorce.
 
 ### If you want to run this Webapp, please go through the requirment.txt to get all the prerequisite. 
 #### After creating virtual environment, you need to run this command in your terminal
