@@ -1,9 +1,9 @@
 # Divorce_Prediction
 ## A mini project to predict divorce with the help of divorce dataset. Over that build a interactive Webapp with UI to predict divorce using questionnaire.
 
-##Go through the screenshot folder in the directory to get a glace of Webapp
+### Go through the screenshot folder in the directory to get a glace of Webapp
 
-##Data Understanding:-
+### Data Understanding:-
 
 Data Source Link: https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set
 
