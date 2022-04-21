@@ -15,16 +15,16 @@ Data Source Link: https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+dat
 
 As the data has no null values and all the cells have ordinal value, there is not much required in data preprocessing.
 
-### <-- Step1 -->---------------->>>Model Building<<<
+### <-- Step2 -->---------------->>>Model Building<<<
 
 As the output feature is class variable. I am going to use MLP Classifier. MLPClassifier stands for Multi-layer Perceptron classifier which in the name itself connects to a Neural Network. Unlike other classification algorithms such as Support Vectors or Naive Bayes Classifier, MLPClassifier relies on an underlying Neural Network to perform the task of classification. Model also has been cross-validated using test-train split.
 
 
-### <-- Step2 -->---------------->>>Dumping Model<<<
+### <-- Step3 -->---------------->>>Dumping Model<<<
 
 After building the model with 91.17% accuracy, it is dumped into a pickle file to use again into the webapp to predict the divorce.
 
-### <-- Step3 -->---------------->>>Building Webapp<<<
+### <-- Step4 -->---------------->>>Building Webapp<<<
 
 With the help of Streamlit library, a basic Webapp has been build, Asking 54 questions from user, and detect his/her divorce.
 
